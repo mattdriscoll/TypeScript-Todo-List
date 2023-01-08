@@ -4,6 +4,8 @@
 
 This simple project comes from this [Mastering TypeScript](https://www.udemy.com/course/learn-typescript/) course.
 
+View the demo [here](https://gregarious-llama-6331db.netlify.app).
+
 The purpose of this project was to learn how to use TypeScript with the DOM. It uses [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to persist data between page loads.
 
 ## This project covers:
