@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ed3a66d-650d-44af-9bab-fc01bf74968b/deploy-status)](https://app.netlify.com/sites/gregarious-llama-6331db/deploys)
+
 # TypeScript Todo App
 
 This simple project comes from this [Mastering TypeScript](https://www.udemy.com/course/learn-typescript/) course.
